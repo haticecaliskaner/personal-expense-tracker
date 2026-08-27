@@ -1,2 +1,5 @@
 100,transport,bus,27.08.2026
 350,food,pasta,27.08.2026
+250,food,pizza,27.08.2026
+300,transport,taxi,27.08.2026
+10,food,tea,27.08.2026
